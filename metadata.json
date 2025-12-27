@@ -1,0 +1,5 @@
+{
+  "name": "CppMistakeChecker",
+  "description": "An AI-powered C++ code analysis tool that identifies syntax errors, logic flaws, and bad practices with modern C++ standard suggestions.",
+  "requestFramePermissions": []
+}
